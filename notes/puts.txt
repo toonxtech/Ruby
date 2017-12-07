@@ -1,0 +1,3 @@
+puts
+
+puts simply writes on the screen whatever comes after it.

@@ -1,0 +1,3 @@
+Integer and Float
+
+numbers without decimal points are call integers, and numbers with decimal points are usually called floating-point numbers, or simply, floats.
